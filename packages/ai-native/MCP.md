@@ -1,8 +1,8 @@
-# Model Control Protocol (MCP) Documentation
+# Model Context Protocol (MCP) Documentation
 
 ## Overview
 
-The Model Control Protocol (MCP) is an integration layer that enables IDE capabilities to be exposed to AI models through a standardized interface. It provides a set of tools that allow AI models to interact with the IDE environment, manipulate files, and perform various operations.
+The Model Context Protocol (MCP) is an integration layer that enables IDE capabilities to be exposed to AI models through a standardized interface. It provides a set of tools that allow AI models to interact with the IDE environment, manipulate files, and perform various operations.
 
 ## Architecture
 
